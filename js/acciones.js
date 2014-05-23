@@ -17,4 +17,7 @@
 	$('#cuello').tap(function (e) {
  	 $.mobile.navigate( "#Dcuello" );
 	});
+	$('#acerca').tap(function (e) {
+ 	 $.mobile.navigate( "#Acercade" );
+	});
 });//ready
